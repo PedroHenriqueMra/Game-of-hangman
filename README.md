@@ -11,5 +11,8 @@ A simple terminal game of famous 'Hangman game' made with c#. My purpose was tra
 [Dotnet install](https://dotnet.microsoft.com/en-us/download)
 
 ## start
-```cd file path```
-```dotnet run```
+```
+cd file path
+dotnet run
+```
+
