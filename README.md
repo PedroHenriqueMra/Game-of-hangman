@@ -5,12 +5,11 @@ A simple terminal game of famous 'Hangman game' made with c#. My purpose was tra
 ## instalation
 
 - clone repository
-`git clone https://github.com/PedroHenriqueMra/Game-of-hangman`
+```git clone https://github.com/PedroHenriqueMra/Game-of-hangman```
 
 - if you don't have dotnet installed yet
-[Dotnet install](if you don't have C# installed yet)
+[Dotnet install](https://dotnet.microsoft.com/en-us/download)
 
 ## start
-
-`cd file path`
-`dotnet run`
+```cd file path```
+```dotnet run```
