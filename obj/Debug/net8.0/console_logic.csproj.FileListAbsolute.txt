@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\bin\Debug\net8.0\console_logic.exe
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\bin\Debug\net8.0\console_logic.deps.json
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\bin\Debug\net8.0\console_logic.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\bin\Debug\net8.0\console_logic.dll
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\bin\Debug\net8.0\console_logic.pdb
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\obj\Debug\net8.0\console_logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\obj\Debug\net8.0\console_logic.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\obj\Debug\net8.0\console_logic.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\obj\Debug\net8.0\console_logic.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\obj\Debug\net8.0\console_logic.dll
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\obj\Debug\net8.0\refint\console_logic.dll
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\obj\Debug\net8.0\console_logic.pdb
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\obj\Debug\net8.0\console_logic.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Documentos\logica-c#\console_logic\obj\Debug\net8.0\ref\console_logic.dll
