@@ -1,6 +1,6 @@
 # Hangman game
 
-A simple terminal game of famous 'Hangman game' made with c#. My purpose was training logic.
+A simple terminal game of famous 'Hangman game' made with c#. My purpose was to train logic.
 
 ## instalation
 clone repository
