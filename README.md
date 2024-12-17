@@ -3,8 +3,7 @@
 A simple terminal game of famous 'Hangman game' made with c#. My purpose was training logic.
 
 ## instalation
-
-- clone repository
+clone repository
 ```bash
 git clone https://github.com/PedroHenriqueMra/Game-of-hangman
 ```
